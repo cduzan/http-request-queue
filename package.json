@@ -1,0 +1,25 @@
+{
+  "name": "http-request-queue",
+  "version": "1.0.0",
+  "description": "Helper to handle multiple https requests without overloading the target service",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cduzan/http-request-queue.git"
+  },
+  "keywords": [
+    "http"
+  ],
+  "author": "Chris Duzan <cgduzan@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cduzan/http-request-queue/issues"
+  },
+  "homepage": "https://github.com/cduzan/http-request-queue#readme"
+}
